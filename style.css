@@ -27,3 +27,21 @@ header{
     height: 200px;
     border: 3px solid black;
 }
+
+.my-color{
+    color: white;
+}
+
+.my-text{
+    background-color:darkviolet;
+    height: 200px;
+    border: 3px solid white;
+}
+
+
+.my-button{
+    background-color: #1abc9c;
+    height: 50px;
+    border: 1px solid white;
+    color: white;
+}
