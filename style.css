@@ -21,3 +21,9 @@ header{
     height: 300px;
     border: 2px solid red;
 }
+
+.my-product{
+    background-color: lime;
+    height: 200px;
+    border: 3px solid black;
+}
