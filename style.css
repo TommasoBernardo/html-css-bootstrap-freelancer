@@ -19,21 +19,13 @@ header{
 
 
 
-.my-product{
-    background-color: lime;
-    height: 200px;
-    border: 3px solid black;
-}
+
 
 .my-color{
     color: white;
 }
 
-.my-text{
-    background-color:darkviolet;
-    height: 200px;
-    border: 3px solid white;
-}
+
 
 .my-line{
     height: 5px;
@@ -42,7 +34,14 @@ header{
     background-color: white;
 }
 
-.fa-solid{
+.my-line-dark{
+    height: 5px;
+    width: 60px;
+    border-radius: 10px;
+    background-color: #2c3e50;
+}
+
+.fa-star{
     margin: 0 1rem;
 }
 
@@ -51,6 +50,7 @@ header{
     height: 50px;
     border: 1px solid white;
     color: white;
+    border-radius: 10px;
 }
 
 
@@ -89,4 +89,12 @@ header{
 
 .my-width{
     width:200px;
+}
+
+.my-align{
+    align-items: center;
+}
+
+.me-star-dark{
+    color: #373737;
 }
