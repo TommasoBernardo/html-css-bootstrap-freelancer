@@ -17,11 +17,7 @@ header{
     width: 100%;
 }
 
-.my-star{
-    background-color:  blue;
-    height: 300px;
-    border: 2px solid red;
-}
+
 
 .my-product{
     background-color: lime;
@@ -39,6 +35,16 @@ header{
     border: 3px solid white;
 }
 
+.my-line{
+    height: 5px;
+    width: 60px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.fa-solid{
+    margin: 0 1rem;
+}
 
 .my-button{
     background-color: #1abc9c;
@@ -81,3 +87,6 @@ header{
     width: 100%;
 }
 
+.my-width{
+    width:200px;
+}
